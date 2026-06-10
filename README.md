@@ -1,17 +1,14 @@
 # Smart-Retail-Sales-Analysis-week-2
 # Smart Retail Sales Prediction Using Machine Learning
 
-## Overview
 This project predicts retail sales using supervised machine learning techniques. It analyzes historical retail transaction data and builds predictive models that can help businesses improve inventory planning and sales forecasting.
 
-## Objectives
+##Objectives
 
 * Predict retail sales using machine learning
 * Compare multiple regression algorithms
 * Evaluate model performance using standard metrics
 * Visualize prediction results
-
----
 
 ## Technologies Used
 
@@ -22,15 +19,12 @@ This project predicts retail sales using supervised machine learning techniques.
 * Matplotlib
 * Jupyter Notebook
 
----
-
 ## Machine Learning Algorithms
 
 * Linear Regression
 * Decision Tree Regressor
 * Random Forest Regressor
 
----
 
 ## Dataset Features
 
@@ -55,8 +49,6 @@ Date features were engineered into:
 * Ship Month
 * Ship Day
 
----
-
 ## Workflow
 
 1. Load dataset
@@ -69,7 +61,6 @@ Date features were engineered into:
 8. Visualize predictions
 9. Save trained model
 
----
 
 ## Evaluation Metrics
 
@@ -77,30 +68,8 @@ Date features were engineered into:
 * Root Mean Squared Error (RMSE)
 * R² Score
 
----
 
 ## Results
 
 The Random Forest Regressor achieved the best predictive performance among the evaluated models, providing accurate sales forecasts for smart retail analysis.
 
----
-
-
----
-
-## Future Enhancements
-
-* Hyperparameter tuning
-* XGBoost and LightGBM implementation
-* Interactive dashboard using Streamlit
-* Sales forecasting using time-series models
-
----
-
-## Author
-
-Nasrin Begam
-
-B.Tech Information Technology
-
-Passionate about Artificial Intelligence, Machine Learning, and Data Science.
